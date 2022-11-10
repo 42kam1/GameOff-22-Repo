@@ -89,3 +89,7 @@ Content/ControlRig/
 Content/00-Levels/TestLVL.umap
 Content/00-Levels/Test_Lvl.umap
 Config/DefaultEngine.ini
+Content/BSP_ZombieAnims/
+Content/MCO_Mocap_Basics/
+Source/FBX/
+Source/
